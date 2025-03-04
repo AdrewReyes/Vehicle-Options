@@ -6,7 +6,7 @@ This is a TypeScript command-line application that allows users to create and ma
 
 ## Walkthrough Video
 
-[Watch the walkthrough video](link-to-your-video)
+[Watch the walkthrough video](https://app.screencastify.com/v3/watch/oEsrplwYwq0dWPVOpOdf)
 
 ## Installation
 
@@ -21,3 +21,4 @@ Follow the prompts to create a new vehicle or select an existing vehicle. After 
 ## License
 
 This project is licensed under the MIT License.
+
